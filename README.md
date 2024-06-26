@@ -9,6 +9,6 @@ Insulin: 2-hour serum insulin (mu U/ml)
 DiabetesPedigreeFunction: Diabetes Pedigree Function
 BMI: Body Mass Index
 Age: Age (years)
-Outcome: Has the disease (1) or not (0
+Outcome: Has the disease (1) or not (0)
 
 The accuracy value was found to be %87.
